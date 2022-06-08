@@ -1,0 +1,2 @@
+# reduxapp
+project with redux
